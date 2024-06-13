@@ -38,3 +38,6 @@ The project includes unit tests that cover:
 - Grids with no possible path
 - Grids with multiple possible paths
 
+## Complexity
+Time Complexity: O(nxm)
+Space Complexity: O(nxm)
