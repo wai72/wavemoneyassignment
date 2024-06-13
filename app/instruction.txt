@@ -1,0 +1,11 @@
+Build and Run Instructions
+
+Ensure you have Android Studio installed.
+Open the project in Android Studio.
+Build the project:
+Go to Build > Make Project.
+Run the app:
+Connect an Android device or start an emulator.
+Click Run > Run 'app'.
+Run unit tests:
+Go to Run > Run 'All Tests'.
